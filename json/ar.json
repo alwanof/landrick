@@ -1,0 +1,420 @@
+{
+  "generalSettings": {
+    "dark": 0,
+    "colors": "default,cyan,green,purple,red,skobleoff,skyblue,slateblue,yellow",
+    "color": "yellow"
+  },
+  "home": [
+    {
+      "caption": "Home",
+      "topBar": {
+        "logoLight": "/themo/public/front/default/images/logo-light.png",
+        "logoDark": "/themo/public/front/default/images/logo-dark.png",
+        "items": [
+          {
+            "caption": "Home",
+            "link": "/themo/public",
+            "type": "normal"
+          },
+          {
+            "caption": "About",
+            "link": "/themo/public/page/about-us",
+            "type": "normal"
+          },
+          {
+            "caption": "Service",
+            "link": "#",
+            "type": "sub",
+            "subItems": [
+              {
+                "caption": "Service1",
+                "link": "#"
+              },
+              {
+                "caption": "Service2",
+                "link": "#"
+              },
+              {
+                "caption": "Service3",
+                "link": "#"
+              }
+            ]
+          },
+          {
+            "caption": "Contact",
+            "link": "/themo/public/contact",
+            "type": "normal"
+          },
+          {
+            "caption": "Language",
+            "link": "#",
+            "type": "sub",
+            "subItems": [
+              {
+                "caption": "English",
+                "link": "/themo/public/?lang=en"
+              },
+              {
+                "caption": "عربي",
+                "link": "/themo/public/?lang=ar"
+              }
+            ]
+          }
+        ],
+        "BTN": {
+          "caption": "Install",
+          "link": "#",
+          "show": 1
+        },
+        "show": 1
+      },
+      "hero": {
+        "imageHolder": [
+          {
+            "src": "/themo/public/front/default/images/app/classic01.png",
+            "caption": ""
+          },
+          {
+            "src": "/themo/public/front/default/images/app/calender.png",
+            "caption": ""
+          }
+        ],
+        "note": {
+          "iconCaption": "New",
+          "caption": "New Added Modern and Classic App Showcase",
+          "show": 1
+        },
+        "titleCaption": "We build best apps that users love",
+        "descriptionCaption": "Launch your campaign and benefit from our expertise on designing and managing conversion centered bootstrap v5 html page.",
+        "BTN": {
+          "caption": "Install Now",
+          "link": "#",
+          "show": 1
+        },
+        "video": {
+          "caption": "Watch Now",
+          "linkID": "yba7hPeTSjk",
+          "show": 1
+        },
+        "show": 1
+      },
+      "whatWeDo3C": {
+        "tag": {
+          "tagCaption": "Features",
+          "show": 1
+        },
+        "titleCaption": "What We Do ?",
+        "descriptionCaption": "Start working with Landrick that can provide everything you need to generate awareness, drive traffic, connect.",
+        "items": [
+          {
+            "icon": "/themo/public/front/default/images/icon/art-and-design.svg",
+            "caption": "Design & Branding",
+            "descriptionCaption": "If the distribution of letters and distribution 'words' is random, the reader will not be distracted.",
+            "active": 0
+          },
+          {
+            "icon": "/themo/public/front/default/images/icon/smartphone.svg",
+            "caption": "Fully Secured",
+            "descriptionCaption": "If the distribution of letters and distribution 'words' is random, the reader will not be distracted.",
+            "active": 1
+          },
+          {
+            "icon": "/themo/public/front/default/images/icon/clock.svg",
+            "caption": "High Performance",
+            "descriptionCaption": "If the distribution of letters and distribution 'words' is random, the reader will not be distracted.",
+            "active": 0
+          }
+        ],
+        "show": 1
+      },
+      "galleryA":{
+          "titleCaption": "Our Latest Projects",
+          "description":{
+              "descriptionCaption":"Start working with Landrick that can provide everything you need to generate awareness, drive traffic, connect.",
+              "show": 1
+          },
+          "items":[
+              {
+                  "src":"/themo/public/front/default/images/work/1.jpg",
+                  "caption":"Shifting Perspective",
+                  "linnk":"#",
+                  "tagCaption":"Studio"
+              },
+              {
+                  "src":"/themo/public/front/default/images/work/2.jpg",
+                  "caption":"Colors Magazine",
+                  "linnk":"#",
+                  "tagCaption":"Web Design"
+              },
+              {
+                  "src":"/themo/public/front/default/images/work/3.jpg",
+                  "caption":"Spa Cosmetics",
+                  "linnk":"#",
+                  "tagCaption":"Developing"
+              },
+              {
+                  "src":"/themo/public/front/default/images/work/4.jpg",
+                  "caption":"Riser Coffee",
+                  "linnk":"#",
+                  "tagCaption":"Branding"
+              }
+
+          ],
+          "footer":{
+              "titleCaption":"See everything about your employee at one place.",
+              "descriptionCaption":"Start working with Landrick that can provide everything you need to generate awareness, drive traffic, connect.",
+              "BTN": {
+                  "caption": "Find Out More",
+                  "link": "#",
+                  "show": 1
+                },
+                "show":1
+          },
+          "show": 1
+      },
+      "leftStory2C": {
+        "imageSrc": "/themo/public/front/default/images/app/classic02.png",
+        "titleCaption": "We Build High Performing Application",
+        "descriptionCaption": "Launch your campaign and benefit from our expertise on designing and managing conversion centered bootstrap v5 html page.",
+        "listItem": {
+          "li": [
+            {
+              "caption": "Digital Marketing Solutions for Tomorrow"
+            },
+            {
+              "caption": "Our Talented & Experienced Marketing Agency"
+            },
+            {
+              "caption": "Create your own skin to match your brand"
+            }
+          ],
+          "show": 1
+        },
+        "BTN": {
+          "caption": "Find Out More",
+          "link": "#",
+          "show": 1
+        },
+        "show": 1
+      },
+      "rightStory2C": {
+        "imageSrc": "/themo/public/front/default/images/app/classic02.png",
+        "titleCaption": "We Build High Performing Application",
+        "descriptionCaption": "Launch your campaign and benefit from our expertise on designing and managing conversion centered bootstrap v5 html page.",
+        "listItem": {
+          "li": [
+            {
+              "caption": "Digital Marketing Solutions for Tomorrow"
+            },
+            {
+              "caption": "Our Talented & Experienced Marketing Agency"
+            },
+            {
+              "caption": "Create your own skin to match your brand"
+            }
+          ],
+          "show": 1
+        },
+        "BTN": {
+          "caption": "Find Out More",
+          "link": "#",
+          "show": 1
+        },
+        "show": 1
+      },
+      "formA": {
+          "header":{
+            "titleCaption": "How It Work ?",
+            "descriptionCaption": "Start working with Landrick that can provide everything you need to generate awareness, drive traffic, connect.",
+            "show": 1
+
+          },
+
+        "form": {
+          "items": {
+            "nameCaption": "Name",
+            "lebalNameCaption": "Your Name",
+            "emailCaption": "Email",
+            "lebalEmailCaption": "Your Email",
+            "subjectCaption": "Subject",
+            "lebalSubjectCaption": "Your Subject",
+            "messageCaption": "Message",
+            "lebalMessageCaption": "Your Message",
+            "buttonCaption": "Send Message"
+          },
+          "config": {
+            "adminEmail": "free1soft@gmail.com",
+            "postURL": "#"
+          }
+        },
+        "BIO": {
+          "titleCaption": "Speed up your development ",
+          "descriptionCaption": "Using Landrick to build your site means never worrying about designing another page or cross browser compatibility. Our ever-growing library of components and pre-designed layouts will make your life easier.",
+          "list": {
+            "items": [
+              {
+                "caption": "Digital Marketing Solutions for Tomorrow"
+              },
+              {
+                "caption": "Our Talented & Experienced Marketing Agency"
+              },
+              {
+                "caption": "Create your own skin to match your brand"
+              }
+            ],
+            "show": 1
+          },
+          "BTN": {
+            "caption": "Find Out More",
+            "link": "#",
+            "show": 1
+          }
+        },
+        "show": 1
+      },
+      "solidStory2C": {
+        "imageSrc": "/themo/public/front/default/images/app/classic05.png",
+        "titleCaption": "Subscribe to our weekly news",
+        "descriptionCaption": "Launch your campaign and benefit from our expertise on designing and managing conversion centered bootstrap v5 html page.",
+        "show": 1
+      },
+      "preFooter": {
+        "imageSrc": "/themo/public/front/default/images/logo-light.png",
+        "items": [
+          {
+            "link": "#",
+            "icon": "facebook"
+          },
+          {
+            "link": "#",
+            "icon": "instagram"
+          },
+          {
+            "link": "#",
+            "icon": "twitter"
+          },
+          {
+            "link": "#",
+            "icon": "linkedin"
+          }
+        ]
+      },
+      "footer": {
+        "caption": "© Landrick. All rights reserved",
+        "imageHolder": {
+          "items": [
+            {
+              "src": "/themo/public/front/default/images/payments/american-ex.png",
+              "caption": "American Express"
+            },
+            {
+              "src": "/themo/public/front/default/images/payments/discover.png",
+              "caption": "Discover"
+            },
+            {
+              "src": "/themo/public/front/default/images/payments/master-card.png",
+              "caption": "Master Card"
+            },
+            {
+              "src": "/themo/public/front/default/images/payments/paypal.png",
+              "caption": "Paypal"
+            },
+            {
+              "src": "/themo/public/front/default/images/payments/visa.png",
+              "caption": "Visa"
+            }
+          ],
+          "show": 1
+        }
+      }
+    }
+  ],
+  "pages": {
+    "about-us": {
+      "coverSrc": "/themo/public/front/default/images/company/aboutus.jpg",
+      "mainCaption": "Aboutus",
+      "description": {
+        "caption": "Start working with Landrick that can provide everything you need to generate awareness, drive traffic, connect.",
+        "show": 1
+      },
+      "storyRobic2C": {
+        "numeric": {
+          "numberCaption": "15",
+          "word1Caption": "Years",
+          "word2Caption": "Experience",
+          "show": 1
+        },
+        "titleCaption": "Who we are ?",
+        "content1Caption": "Start working with Landrick that can provide everything you need to generate awareness, drive traffic, connect. Dummy text is text that is used in the publishing industry or by web designers to occupy the space which will later be filled with 'real' content. This is required when, for example, the final text is not yet available. Dummy texts have been in use by typesetters since the 16th century. ",
+        "BTN": {
+          "caption": "Contact us",
+          "link": "#",
+          "show": 1
+        },
+        "imageSrc": "/themo/public/front/default/images/company/about2.png",
+        "show": 1
+      },
+      "servicesA3C": {
+        "titleCaption": "Design & Development",
+        "descriptionCaption": "Nisi aenean vulputate eleifend tellus vitae eleifend enim a Aliquam aenean elementum semper.",
+        "items": [
+          {
+            "icon": "uil-edit-alt",
+            "caption": "Management & Marketing",
+            "descriptionCaption": "Allegedly, a Latin scholar established the origin of the text by established compiling unusual word."
+          },
+          {
+            "icon": "uil-vector-square",
+            "caption": "Stratagy & Research",
+            "descriptionCaption": "If the distribution of letters and distribution 'words' is random, the reader will not be distracted."
+          },
+          {
+            "icon": "uil-file-search-alt",
+            "caption": "High Performance",
+            "descriptionCaption": "It seems that only fragments of the original text remain in the Lorem the original Ipsum texts used today."
+          }
+        ],
+        "show": 1
+      }
+    }
+  },
+  "contact": {
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d39206.002432144705!2d-95.4973981212445!3d29.709510002925988!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8640c16de81f3ca5%3A0xf43e0b60ae539ac9!2sGerald+D.+Hines+Waterwall+Park!5e0!3m2!1sen!2sin!4v1566305861440!5m2!1sen!2sin",
+    "mainCaption": "Contact Details",
+    "description": {
+      "caption": "Start working with Landrick that can provide everything you need to generate awareness, drive traffic, connect.",
+      "show": 1
+    },
+    "elements": [
+      {
+        "caption": "Email",
+        "value": "contact@example.com"
+      },
+      {
+        "caption": "Phone",
+        "value": "+152 534-468-854"
+      },
+      {
+        "caption": "Address",
+        "value": "Pirireis mah. 164 sk. No.51/1 - İskenderun (Savaş Mah.) Hatay Turkey"
+      }
+    ],
+    "form": {
+      "items": {
+        "nameCaption": "Name",
+        "lebalNameCaption": "Your Name",
+        "emailCaption": "Email",
+        "lebalEmailCaption": "Your Email",
+        "subjectCaption": "Subject",
+        "lebalSubjectCaption": "Your Subject",
+        "messageCaption": "Message",
+        "lebalMessageCaption": "Your Message",
+        "buttonCaption": "Send Message"
+      },
+      "config": {
+        "adminEmail": "free1soft@gmail.com",
+        "postURL": "#"
+      }
+    }
+  }
+}
